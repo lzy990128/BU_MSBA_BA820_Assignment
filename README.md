@@ -1,1 +1,1 @@
-# BU_MSBA_BA820_Assignment
+# BU_MSBA_BA820_Assignments
